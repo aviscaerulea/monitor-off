@@ -1,0 +1,25 @@
+# CMake ビルド出力
+build/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# ビルド成果物
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.obj
+*.iobj
+*.ipdb
+*.log
+*.tlog
+*.idb
+
+# OS
+Thumbs.db
+.DS_Store
